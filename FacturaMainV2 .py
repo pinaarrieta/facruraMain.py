@@ -1,7 +1,7 @@
-#****************************************  Extractor XML   *******************************************************
+#****************************************  Extractor XML  v2 *****************************************************
 # EricK Genaro Piña Arrieta Barbosa
 # Proyecto: Extractor de datos XML en Python
-# Fecha: 31/10/2025
+# Fecha: 2/11/2025
 # Descripción: Este proyecto tiene como objetivo extraer y procesar datos de un XML CFDI 4 utilizando Python.
 #*****************************************************************************************************************
 
@@ -194,4 +194,5 @@ if __name__ == "__main__":
     print('************************************** Fin del programa *****************************************************')
     print('*************************************************************************************************************')
     print('Gracias por usar la aplicación. Cualquier comentario a: pinaarrieta@yahoo.com.mx\n')
+
     input('Presiona ENTER para finalizar...')
